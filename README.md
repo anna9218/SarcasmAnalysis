@@ -1,4 +1,4 @@
-# Sarcasm Analysis
+# Sentiment Analysis
 A real-world application to distributively process a list of Amazon reviews, perform sentiment analysis and named-entity recognition and display the result on a web page.
 
 ## How to run the project
